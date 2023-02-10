@@ -1,4 +1,10 @@
-### Hi there 👋
+###
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
+</p>
+
+
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=latifii&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
